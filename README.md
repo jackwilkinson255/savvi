@@ -10,7 +10,7 @@
 </p>
 
 
-<p float="left">
+<p float="centre">
   <img src="images/savvi_f.gif" width="300" />
   <img src="images/savvi_s.gif" width="300" />
 </p>

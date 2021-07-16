@@ -2,9 +2,20 @@
 
 
 <p align="center">
-  <img src="images/savvi_f.gif" width="400" alt="animated" />
+  <img src="images/savvi_f.gif" width="300" />
 </p>
 
 <p align="center">
-  <img src="images/savvi_s.gif" width="400" alt="animated" />
+  <img src="images/savvi_s.gif" width="300" />
 </p>
+
+
+<p float="left">
+  <img src="images/savvi_f.gif" width="300" />
+  <img src="images/savvi_s.gif" width="300" />
+</p>
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)

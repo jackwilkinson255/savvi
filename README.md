@@ -7,8 +7,8 @@ interpret vibrotactile stimuli and develop the haptics subsystem.
 
 
 <p float="centre">
-  <img src="images/savvi_f.gif" width="200" />
-  <img src="images/savvi_s.gif" width="200" />
+  <img src="images/savvi_f.gif" width="260" />
+  <img src="images/savvi_s.gif" width="260" />
 </p>
 
 
